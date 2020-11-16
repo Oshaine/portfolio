@@ -1,9 +1,9 @@
 <template>
   <div class="skills" id="skills">
-    <div class="heading white">
+    <div class="heading white pt-5">
       <h2>Skills</h2>
     </div>
-    <div class="container">
+    <div class="container pt-5">
       <div class="row">
         <div class="card col-md">
           <b-card title="Skills" class="skills-card">
