@@ -11,11 +11,11 @@
       </vue-aos>
       <div class="contentbox">
         <p>
-          Oshaine X Smith is a young software developer aiming to be inspired,
-          innovative and brings life to software development. Also, I am a
-          student at Northern Caribbean University
-          <br />
-          pursuing a Batchelor of Science in Computer Information Systems.
+          Oshaine X Smith is a young aspiring web developer, who is innovative
+          and brings life to web development. I am a student at Northern
+          Caribbean University pursuing a Batchelor of Science in Computer
+          Information Systems. Also, I am beat composer in which <br />
+          I create beats for multiple genres.
         </p>
       </div>
     </div>
