@@ -644,6 +644,7 @@ text-align: center;
     padding: 8px;
 }
 
+
 @media screen and (max-width: 640px) {
   .skills {
       height: 130vh;
@@ -679,11 +680,5 @@ text-align: center;
   }
 }
 
-@media screen and (max-width: 1024px) {
-  .skills {
-      height: 60vh;
-
-  }
-}
 
 
