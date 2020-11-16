@@ -643,11 +643,47 @@ text-align: center;
     color: #0e4dba;
     padding: 8px;
 }
-@media (max-width: 800px) {
-    .skills {
-        height: 140vh;
 
-    }
+@media screen and (max-width: 640px) {
+  .skills {
+      height: 130vh;
+
+  }
+}
+@media screen and (max-width: 600px) {
+  .skills {
+      height: 180vh;
+
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .skills {
+      height: 150vh;
+
+  }
+}
+
+
+@media screen and (max-width: 740px) {
+  .skills {
+      height: 135vh;
+
+  }
+}
+
+@media screen and (max-width: 812px) {
+  .skills {
+      height: 125vh;
+
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .skills {
+      height: 60vh;
+
+  }
 }
 
 
