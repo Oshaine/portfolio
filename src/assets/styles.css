@@ -645,7 +645,7 @@ text-align: center;
 }
 @media (max-width: 800px) {
     .skills {
-        height: 85vh;
+        height: 140vh;
 
     }
 }
