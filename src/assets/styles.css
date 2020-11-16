@@ -86,7 +86,6 @@ header ul li a {
 .btn {
   position: relative;
   background: linear-gradient(105deg,#6e99e6 ,#093c94);
-  display: inline-block;
   color: #fff;
   margin-top: 20px;
   padding: 10px 30px;
@@ -118,6 +117,7 @@ header ul li a {
 .content {
   display: flex;
   justify-content: space-between;
+  text-align: center;
 }
 .contentbox {
 margin-top: 10%;
@@ -152,7 +152,7 @@ text-align: center;
   padding: 40px 20px 10px 20px;
   background: #222;
   color: #fff;
-  max-width: 340px;
+  width: 340px;
   margin: 20px;
   text-align: center;
   transition: 0.5s ease;
@@ -323,11 +323,7 @@ text-align: center;
   .banner h2, .banner h3 {
     font-size: 1em;
   }
-  .btn {
-    margin-top: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-  }
+
   .heading h2 {
     font-weight: 600;
     font-size: 24px;
@@ -441,10 +437,12 @@ color: #fff;
 transition: all 0.3s ease 0s;
 line-height: 36px;
 font-size: 15px;
-text-transform: capitalize;
 }
-.single_footer ul li a:hover { color: #75c6fc; }
-
+.single_footer ul li a:hover { color: #75c6fc; text-decoration: none; }
+.single_footer i {
+    font-size: 25px;
+    margin-right: 10px;
+}
 .single_footer_address ul li{color:#fff;}
 .single_footer_address ul li span {
 font-weight: 400;
@@ -503,7 +501,7 @@ width: 60px;
 }
 
 .subscribe__btn:hover i{
-color:#ff3666;
+color:#0d131a;
 }
 button {
 padding: 0;
@@ -548,8 +546,8 @@ line-height:40px;
 }
 }
 .social_profile ul li a:hover{
-background:#ff3666;
-border: 1px solid #ff3666;
+background:#709dff;
+border: 1px solid #709dff;
 color:#fff;
 border:0px;
 }
@@ -562,8 +560,8 @@ font-size: 15px;
 border-top: 1px solid rgba(255,255,255,0.4);
 text-align: center;
 }
-.copyright a{color:#01c7e9;transition: all 0.2s ease 0s;}
-.copyright a:hover{color:#ff3666;}
+.copyright a{color:#ffffff;transition: all 0.2s ease 0s;}
+.copyright a:hover{color:#709dff; text-decoration: none;}
 
 
 

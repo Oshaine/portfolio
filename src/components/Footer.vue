@@ -6,24 +6,33 @@
           <div class="single_footer">
             <h4>Contact</h4>
             <ul>
-              <li><a href="#">Lorem Ipsum</a></li>
-              <li><a href="#">Simply dummy text</a></li>
-              <li><a href="#">The printing and typesetting </a></li>
-              <li><a href="#">Standard dummy text</a></li>
-              <li><a href="#">Type specimen book</a></li>
+              <li>
+                <a href="#"
+                  ><i class="fas fa-home"></i> Mandeville, Manchester</a
+                >
+              </li>
+
+              <li>
+                <a href="#"
+                  ><i class="fas fa-envelope"></i> oshaine429smith@gmail.com</a
+                >
+              </li>
+              <li>
+                <a href="#"><i class="fas fa-phone-square"></i> 876-429-7967</a>
+              </li>
             </ul>
           </div>
         </div>
         <!--- END COL -->
         <div class="col-md-4 col-sm-4 col-xs-12">
           <div class="single_footer single_footer_address">
-            <h4>Services</h4>
+            <h4>Useful Links</h4>
             <ul>
-              <li><a href="#">Lorem Ipsum</a></li>
-              <li><a href="#">Simply dummy text</a></li>
-              <li><a href="#">The printing and typesetting </a></li>
-              <li><a href="#">Standard dummy text</a></li>
-              <li><a href="#">Type specimen book</a></li>
+              <li>
+                <a href="https://oxs_beats.beatstars.com" target="_blank"
+                  >Beat Store</a
+                >
+              </li>
             </ul>
           </div>
         </div>
@@ -83,7 +92,7 @@
       <!--- END ROW -->
       <div class="row">
         <div class="col-lg-12 col-sm-12 col-xs-12">
-          <p class="copyright">Copyright © 2020 <a href="#">O.X.S</a>.</p>
+          <p class="copyright">Copyright © 2020 <a href="#">O.X.S</a></p>
         </div>
         <!--- END COL -->
       </div>

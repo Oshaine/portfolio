@@ -21,8 +21,8 @@
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-ad"></i></div>
-        <h2>UX/UI</h2>
-        <p>Professional Prototyping</p>
+        <h2>UX/UI Designs</h2>
+        <p>Adobe XD</p>
       </div>
     </div>
   </section>

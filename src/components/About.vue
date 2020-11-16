@@ -4,9 +4,11 @@
       <h2>About Me</h2>
     </div>
     <div class="content">
-      <div class="w50">
-        <img src="../assets/images/profile_pic.jpg" class="img" />
-      </div>
+      <vue-aos animation-class="fadeIn animated">
+        <div>
+          <img src="../assets/images/profile_pic.jpg" class="img" />
+        </div>
+      </vue-aos>
       <div class="contentbox">
         <p>
           Oshaine X Smith is a young software developer aiming to be inspired,
@@ -19,3 +21,10 @@
     </div>
   </section>
 </template>
+<script>
+import VueAos from "vue-aos";
+
+export default {
+  components: { VueAos },
+};
+</script> 
