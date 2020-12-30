@@ -41,7 +41,7 @@
             >
           </b-card>
         </div>
-        <div class="col">
+        <!-- <div class="col">
           <b-card
             title="Honey Bun Foundation Gapp App"
             align="center"
@@ -49,7 +49,7 @@
             img-alt="Image"
             img-top
           >
-            <b-card-text> Laravel | Flutter </b-card-text>
+            <b-card-text> Dart | Flutter </b-card-text>
             <a
               class="btn"
               href="https://play.google.com/store/apps/details?id=gaapapp.gapapp&hl=en&gl=US"
@@ -58,7 +58,7 @@
               >View</a
             >
           </b-card>
-        </div>
+        </div> -->
         <div class="col-md">
           <b-card
             title="Honey Bun Foundation Training Calendar"
@@ -79,38 +79,5 @@
         </div>
       </div>
     </div>
-
-    <!-- <div class="row">
-      <div class="card-4 col-md">
-        <img src="../assets/images/slide_1.jpg" alt="" class="card-img" />
-        <div class="card-text-4">
-          <div class="card-header">
-            <h3 class="card-title">Nursing Website</h3>
-          </div>
-          <p class="card-body">HTML | CSS | JavaScript</p>
-        </div>
-      </div>
-      <div class="card-4 col-md">
-        <img src="../assets/images/slide_3.jpg" alt="" class="card-img" />
-        <div class="card-text-4">
-          <h3 class="card-title">Career Services</h3>
-          <p class="card-body">PHP | Laravel | MYSQL</p>
-        </div>
-      </div>
-      <div class="card-4 col-md">
-        <img src="../assets/images/slide_4.png" alt="" class="card-img" />
-        <div class="card-text-4">
-          <h3 class="card-title">GAPP APP</h3>
-          <p class="card-body">Laravel | Flutter</p>
-        </div>
-      </div>
-      <div class="card-4 col-md">
-        <img src="../assets/images/slide_5.png" alt="" class="card-img" />
-        <div class="card-text-4">
-          <h3 class="card-title">Honey Bun Traning Calender</h3>
-          <p class="card-body">PHP | Laravel | VueJS | MYSQL</p>
-        </div>
-      </div>
-    </div> -->
   </section>
 </template>
