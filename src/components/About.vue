@@ -6,7 +6,7 @@
     <div class="content">
       <vue-aos animation-class="fadeIn animated">
         <div>
-          <img src="../assets/images/profile_pic.jpg" class="img" />
+          <img src="../assets/images/profile_pic_1.jpg" class="img" />
         </div>
       </vue-aos>
       <div class="contentbox">
