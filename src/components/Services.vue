@@ -12,7 +12,7 @@
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-mobile"></i></div>
         <h2>Mobile Development</h2>
-        <p>Laravel and Flutter</p>
+        <p>Flutter and Dart</p>
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-headphones"></i></div>
