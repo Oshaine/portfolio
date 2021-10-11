@@ -111,7 +111,7 @@ header ul li a {
 }
 .heading h2 {
   font-weight: 600;
-  font-size: 30px;
+  font-size: 45px;
   padding: 24px;
 }
 .content {
@@ -315,7 +315,7 @@ text-align: center;
     right: 5px;
   }
   section {
-    pdding: 100px 50px;
+    padding: 100px 50px;
   }
   .banner {
     padding: 150px 50px;
@@ -644,7 +644,18 @@ text-align: center;
     padding: 8px;
 }
 
+/* Beats */
+.player{
+  padding-top: 20px;
+  width: 100%;
+  background-color: #1b1b21 !important;
 
+
+}
+
+section#blazeProApp {
+  border: none !important;
+}
 @media screen and (max-width: 640px) {
   .skills {
       height: 130vh;

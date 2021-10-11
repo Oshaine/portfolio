@@ -5,6 +5,7 @@
     <Skills />
 
     <Projects />
+    <Player/>
   </div>
 </template>
 
@@ -13,6 +14,7 @@ import About from "../components/About";
 import Services from "../components/Services";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
+import Player from "../components/Player.vue";
 
 export default {
   name: "Home",
@@ -21,6 +23,7 @@ export default {
     Services,
     Projects,
     Skills,
+    Player
   },
 };
 </script>
