@@ -17,7 +17,7 @@
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-headphones"></i></div>
         <h2>Beat Compositions</h2>
-        <p>Multiple Genre</p>
+        <p>FL Studio</p>
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-ad"></i></div>
