@@ -12,8 +12,8 @@
       <div class="contentbox">
         <p>
           Oshaine X Smith is a young aspiring web developer, who is innovative
-          and brings life to web development. I am a student at Northern
-          Caribbean University pursuing a Bachelor of Science in Computer
+          and brings life to web development. I am a graduate of the Northern
+          Caribbean University with a Bachelor of Science in Computer
           Information Systems. Also, I am a beat composer in which <br />
           I create beats for multiple genres.
         </p>

@@ -7,12 +7,12 @@
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-file-code"></i></div>
         <h2>Web Development</h2>
-        <p>Laravel and VueJs</p>
+        <p>Nodejs | VueJs | Nuxtjs</p>
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-mobile"></i></div>
         <h2>Mobile Development</h2>
-        <p>Flutter and Dart</p>
+        <p>Flutter | Dart</p>
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-headphones"></i></div>

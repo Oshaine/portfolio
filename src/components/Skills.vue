@@ -34,6 +34,14 @@
               </ul>
               <ul>
                 <i class="fas fa-check"></i
+                >Nuxtjs
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >Nodejs
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
                 >MySQL
               </ul>
               <ul>
