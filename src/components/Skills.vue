@@ -18,10 +18,35 @@
         <div class="card col-md">
           <b-card title="Tools">
             <b-card-text>
-              <ul v-for="(tool, index) in tools" :key="index">
+              <ul>
                 <i class="fas fa-check"></i
-                >{{tool}}
+                >Git
               </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >BitBucket
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i>
+                Code Pen
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >Jira
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >Azure
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >Adobe XD
+              </ul>
+              <ul>
+                <i class="fas fa-check"></i
+                >Visual Studio Code
+              </ul>
+              
             </b-card-text>
           </b-card>
         </div>
