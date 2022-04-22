@@ -5,7 +5,24 @@
     </div>
     <div class="d-flex justify-content-center">
       <div class="row">
-
+        <div class="col-md">
+          <b-card
+            title="Polaris Travel & Placements Services"
+            align="center"
+            img-src="../assets/images/Polaris.jpg"
+            img-alt="Image"
+            img-top
+          >
+            <b-card-text>Node JS | MongoDB | Nuxt JS | Vuetify </b-card-text>
+            <a
+              class="btn"
+              href="https://polarisja.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >View</a
+            >
+          </b-card>
+        </div>
 
                 <div class="col-md">
           <b-card
@@ -36,7 +53,7 @@
             <b-card-text> Dart | Flutter </b-card-text>
             <a
               class="btn"
-              href="https://play.google.com/store/apps/details?id=gaapapp.gapapp&hl=en&gl=US"
+              href="https://play.google.com/store/apps/details?id=com.honeybun.gapapp"
               target="_blank"
               rel="noopener noreferrer"
               >View</a
