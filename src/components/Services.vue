@@ -7,7 +7,7 @@
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-file-code"></i></div>
         <h2>Web Development</h2>
-        <p>Nodejs | VueJs | Nuxtjs</p>
+        <p>Nodejs | Nuxt.js | MongoDB</p>
       </div>
       <div class="servicesbox">
         <div class="icon"><i class="fas fa-mobile"></i></div>
