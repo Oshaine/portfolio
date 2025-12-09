@@ -1,0 +1,23 @@
+<svg width="140" height="32" viewBox="0 0 140 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Opening bracket -->
+  <text x="0" y="24" font-family="'Courier New', 'Monaco', 'Menlo', monospace" font-size="20" font-weight="600" fill="url(#logoGradient)">
+    &lt;
+  </text>
+  
+  <!-- Logo text -->
+  <text x="18" y="24" font-family="'Courier New', 'Monaco', 'Menlo', monospace" font-size="20" font-weight="700" fill="url(#logoGradient)">
+    O.X.S
+  </text>
+  
+  <!-- Closing bracket -->
+  <text x="78" y="24" font-family="'Courier New', 'Monaco', 'Menlo', monospace" font-size="20" font-weight="600" fill="url(#logoGradient)">
+    /&gt;
+  </text>
+</svg>

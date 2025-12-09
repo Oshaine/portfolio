@@ -10,11 +10,11 @@
 </template>
 
 <script>
-import About from "../components/About";
-import Services from "../components/Services";
-import Projects from "../components/Projects";
-import Skills from "../components/Skills";
-import Player from "../components/Player.vue";
+import About from "./../components/About.vue";
+import Services from "./../components/Services.vue";
+import Projects from "./../components/Projects.vue";
+import Skills from "./../components/Skills.vue";
+import Player from "./../components/Player.vue";
 
 export default {
   name: "Home",

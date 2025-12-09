@@ -3,7 +3,7 @@ import 'mutationobserver-shim'
 import Vue from 'vue'
 import './plugins/bootstrap-vue'
 import App from './App.vue'
-import '../src/assets/styles.css'
+import './assets/styles.css'
 import router from './router';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 

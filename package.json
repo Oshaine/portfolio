@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "serve": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "vue-cli-service serve --open"
+    "start": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve --open"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -24,6 +24,7 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-router": "^4.5.8",
     "@vue/cli-service": "~4.5.0",
+    "autoprefixer": "^9.8.8",
     "babel-eslint": "^10.1.0",
     "bootstrap": "^4.5.3",
     "eslint": "^6.7.2",
@@ -31,8 +32,10 @@
     "mutationobserver-shim": "^0.3.7",
     "popper.js": "^1.16.1",
     "portal-vue": "^2.1.7",
+    "postcss": "^7.0.39",
     "sass": "^1.26.11",
     "sass-loader": "^10.0.2",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vue-cli-plugin-bootstrap-vue": "^0.7.0",
     "vue-cli-plugin-mdb": "^2.1.0",
     "vue-template-compiler": "^2.6.11"
